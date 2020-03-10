@@ -1,0 +1,101 @@
+.top-header{
+    margin-top: 20px;
+}
+nav img{
+    width: 60px;
+}
+
+nav ul li{
+    margin-right: 8px;
+    font-weight: 700;
+    font-size: 18px;
+}
+.nav-link{
+    color: rgba(0,0,0,.9) !important; 
+}
+nav .active{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.carousel {
+    margin: 20px 0px 50px 0px;
+    border: 2px solid lightgray;
+
+}
+.border{
+    border: 2px solid red;
+}
+.carousel-inner img{
+    height: 450px;
+}
+.portfolio{
+    margin-top: 50px;
+    
+}
+.portfolio h2{
+    padding-bottom: 5px;
+    font-weight: 600;
+    border-bottom: 1px solid gray;
+    background: -webkit-linear-gradient(#686de0, #130f40);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.portfolio p{
+    color: grey;
+    font-size: 14px;
+    font-weight: 600;
+}
+.left-side{
+    padding: 30px;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 8px;
+    margin-right: 10px;
+    background-color: lightgray;
+}
+.left-side ul li{
+    background-color: lightgray;
+}
+.contact-us{
+    padding: 30px;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 8px;
+    background-color: lightgray;
+}
+.contact-us h4{
+    padding-bottom: 15px;
+    font-weight: 600;
+    border-bottom: 1px solid lightgray;
+    background: -webkit-linear-gradient(#686de0, #130f40);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.contact-us ul li{
+    background-color: lightgray;
+}
+.services{
+    margin-top: 50px;
+}
+.services h2{
+    padding-bottom: 5px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(#686de0, #130f40);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.card-title{
+    font-weight: 700;
+    color: black;
+}
+.card-text{
+    color: #666666;
+    font-size: 15px;
+    line-height: 1.80857;
+}
+footer p{
+    background-color: lightgray;
+    margin: 20px 0px;
+    padding: 15px 0px;
+    text-align: center;
+    border-radius: 5px;
+}
+
